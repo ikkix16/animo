@@ -1,0 +1,1 @@
+consloge.log("hola mundo")
